@@ -47,7 +47,7 @@ public class User {
 	}
 	public User() {
 		super();
-		// TODO Auto-generated constructor stub
+		System.out.println("leoleo");
 	}
 	@Override
 	public String toString() {
